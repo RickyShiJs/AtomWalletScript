@@ -2,6 +2,7 @@
 
 # Dependencies
 https://pypi.org/project/cosmospy/
+
 https://github.com/cosmos/cosmjs
 
 ## 1. generate wallets
