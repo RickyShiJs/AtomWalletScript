@@ -46,3 +46,25 @@ node celestia_transfer.js
 ## 5. Batch staking
 node celestia_batch_staking.js
 
+
+# Osmosis
+
+## 1. generate wallets
+
+cd python
+
+python3 generate_wallet.py
+
+## 2 Split private key to Array
+python3 split_pktoarray.py
+
+## 3. Convert to osmo address
+python3 osmo_pktoaddress.py
+
+## 4. Batch transfer
+node osmo_transfer.js
+
+
+## 5. Batch staking
+node osmo_batch_staking.js
+
