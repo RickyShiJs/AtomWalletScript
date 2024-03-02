@@ -6,11 +6,15 @@ https://pypi.org/project/cosmospy/
 https://github.com/cosmos/cosmjs
 
 # Atom
-## 1. generate wallets
+## 1. Generate wallets
 
 `cd python`
 
+### From Private Key
 `python3 generate_wallet.py`
+
+### From a Mnemonic Seed
+`python3 generate_wallet_by_mnemonic.py`
 
 
 ## 2 Split private key to Array
