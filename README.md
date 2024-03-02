@@ -17,7 +17,7 @@ https://github.com/cosmos/cosmjs
 `python3 generate_wallet_by_mnemonic.py`
 
 
-## 2 Split private key to Array
+## 2. Split private key to Array
 `python3 split_pktoarray.py`
 
 
